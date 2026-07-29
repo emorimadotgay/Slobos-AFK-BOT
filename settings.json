@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "node-de-free-01.tickhosting.com",
-    "port": 52279,
+    "ip": "yoshiismp.orc.host",
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
